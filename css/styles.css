@@ -1,7 +1,13 @@
-/* Header styles */
+/* page 1 */
+
+/* Header */
 .header {}
 
 .header-nav {}
+
+.nav-logo {}
+
+.nav-list {}
 
 .nav-item {}
 
@@ -9,10 +15,78 @@
 
 .contacts-item {}
 
-/* section hero */
+/* main section Hero */
 
-.section-hero {
+.section-hero {}
 
-}
+.hero-btn {}
 
-/*  */
+.section-main {}
+
+.main-list {}
+
+.main-title {}
+
+.main-text {}
+
+/* middle section */
+
+.section-middle {}
+
+.middle-list {}
+
+.middle-img {}
+
+.section-team {}
+
+.team-photo {}
+
+.team-name {}
+
+.team-subtitle {}
+
+/* footer section */
+
+.footer {}
+
+.footer-text {}
+
+
+/* Page 2 */
+
+/* header section */
+.header {}
+
+.header-nav {}
+
+.nav-logo {}
+
+.nav-list {}
+
+.nav-item {}
+
+.contacts-list {}
+
+.contacts-item {}
+
+/* main section */
+
+.main-section {}
+
+.main-section-btn {}
+
+.main-btn {}
+
+.main-section-list {}
+
+.main-img {}
+
+.main-title {}
+
+.main-text {}
+
+/* footer section */
+
+.footer {}
+
+.footer-text {}
