@@ -3,11 +3,12 @@
 body {
     font-family: "Roboto","Raleway",sans-serif;
     background: #FFFFFF;
-    color: #434455;
 }
 
 :root {
-    --brand-color: 
+    --color-white: #f4f4fd;
+    --color-blue: #2E2F42;
+    --color-logo: #4D5AE5;
 }
 
 /* Header */
@@ -33,7 +34,7 @@ body {
 }
 
 .nav-logo-studio {
-    color: #f4f4fd;
+    color: var(--color-white);
     font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -51,7 +52,7 @@ body {
 }
 
 .nav-item {
-    color: #2E2F42;
+    color: var(--color-blue);
     font-family: "Roboto",sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -303,7 +304,7 @@ button {
 .footer {}
 
 .nav-logo {
-    color: #4D5AE5;
+    color: var(--color-logo);
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
