@@ -1,6 +1,6 @@
 /* page 1 */
 
-.body {
+body {
     font-family: "Roboto","Raleway",sans-serif;
     background: #FFFFFF;
     color: #434455;
@@ -26,6 +26,10 @@
     letter-spacing: 0.03em;
     text-decoration: none;
 
+}
+
+.link {
+    text-decoration: none;
 }
 
 .nav-logo-studio {
@@ -157,11 +161,11 @@ color: #404BBF;
 .middle-img {}
 
 .section-team {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 
 .list {
-    background-color: #FFFFFF;
+    
 }
 
 .our-team {
@@ -171,7 +175,7 @@ color: #404BBF;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -186,7 +190,7 @@ color: #404BBF;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.17;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
@@ -203,6 +207,28 @@ color: #404BBF;
 
 .footer {
     background: #2E2F42;
+}
+
+.nav-logo {
+    color: #4D5AE5;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+
+}
+
+.nav-logo-studio {
+    color: #2E2F42;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
 }
 
 .footer-text {
@@ -273,5 +299,27 @@ button {
 /* footer section */
 
 .footer {}
+
+.nav-logo {
+    color: #4D5AE5;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+
+}
+
+.nav-logo-studio {
+    color: #2E2F42;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+}
 
 .footer-text {}
