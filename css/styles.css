@@ -1,9 +1,9 @@
 /* page 1 */
 
 body {
-    font-family: 'Roboto';
-    background: #E5E5E5;
-    color: #2E2F42;
+    font-family: 'Roboto'sans-serif;
+    background: #FFFFFF;
+    color: #434455;
 }
 
 /* Header */
@@ -13,9 +13,7 @@ body {
 
 .nav-logo {
     color: #4D5AE5;
-    width: 44px;
-    height: 21px;
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -24,9 +22,7 @@ body {
 
 .nav-logo-studio {
     color: #2E2F42;
-    width: 71px;
-    height: 21px;
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -37,7 +33,7 @@ body {
 
 .nav-item {
     color: #2E2F42;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -49,9 +45,8 @@ body {
 
 .contacts-item {
     color: #434455;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'Roboto',
+        sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -70,7 +65,8 @@ color: #404BBF;
 
 .hero-title {
     color: #FFFFFF;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
@@ -80,14 +76,13 @@ color: #404BBF;
 
 .hero-btn {
     color: #FFFFFF;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     background: #4D5AE5;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
     letter-spacing: 0.04em;
 }
 
@@ -97,7 +92,8 @@ color: #404BBF;
 
 .main-title {
     color: #2E2F42;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -107,7 +103,8 @@ color: #404BBF;
 
 .main-text {
     color: #434455;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -117,7 +114,8 @@ color: #404BBF;
 
 .middle-title {
     color: #2E2F42;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -135,7 +133,8 @@ color: #404BBF;
 
 .our-team {
     color: #2E2F42;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -148,7 +147,8 @@ color: #404BBF;
 
 .team-name {
     color: #2E2F42;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -158,9 +158,8 @@ color: #404BBF;
 
 .team-subtitle {
     color: #434455;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'Roboto',
+        sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -174,9 +173,8 @@ color: #404BBF;
 
 .footer-text {
     color: #F4F4FD;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'Roboto',
+        sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -209,14 +207,13 @@ color: #404BBF;
 .main-btn {
     color: #FFFFFF;
     background: #404BBF;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
-    border-radius: 4px;
 }
 
 button {
