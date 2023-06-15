@@ -6,6 +6,10 @@ body {
     color: #434455;
 }
 
+:root {
+    --brand-color: 
+}
+
 /* Header */
 .header {}
 
@@ -17,7 +21,10 @@ body {
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.17;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+
 }
 
 .nav-logo-studio {
@@ -26,10 +33,12 @@ body {
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.17;
 }
 
-.nav-list {}
+.list {
+    list-style: none;
+}
 
 .nav-item {
     color: #2E2F42;
@@ -41,7 +50,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.contacts-list {}
+.list {}
 
 .contacts-item {
     color: #434455;
@@ -103,7 +112,7 @@ color: #404BBF;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.17;
     letter-spacing: 0.02em;
 }
 
@@ -165,7 +174,7 @@ color: #404BBF;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.17;
     letter-spacing: 0.02em;
 }
 
@@ -215,7 +224,7 @@ color: #404BBF;
 
 .main-section {}
 
-.main-section-btn {}
+.list {}
 
 .main-btn {
     color: #FFFFFF;
