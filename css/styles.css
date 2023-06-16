@@ -3,6 +3,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background: var(--bg-white);
+    color: var(--color-grey)
 }
 
 :root {
@@ -69,6 +70,10 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.nav-item .link {
+    text-decoration: none;
+}
 .contacts-item {
     color: #434455;
     font-size: 16px;
@@ -84,10 +89,10 @@ button {
 }
 /* main section Hero */
 .section-hero {
-    background: #2E2F42;
+    background: var(--color-blue);
 }
 .hero-title {
-    color: #FFFFFF;
+    color: var(--bg-white);
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -96,7 +101,7 @@ button {
 }
 
 .hero-btn {
-    color: #FFFFFF;
+    color: var(--bg-white);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -114,7 +119,7 @@ button {
 .list {}
 
 .main-title {
-    color: #2E2F42;
+    color: var(--color-blue);
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -122,7 +127,7 @@ button {
 }
 
 .main-text {
-    color: #434455;
+    color: var(--color-grey);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -131,7 +136,7 @@ button {
 /* middle section */
 
 .middle-title {
-    color: #2E2F42;
+    color: var(--color-blue);
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -149,7 +154,7 @@ button {
 .middle-img {}
 
 .section-team {
-    background-color: #F4F4FD;
+    background-color: var(--color-white);
 }
 
 .list {}
@@ -193,7 +198,7 @@ button {
 
 
 .footer-logo-studio {
-    color: #f4f4fd;
+    color: var(--color-white);
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -201,7 +206,7 @@ button {
 }
 
 .footer-text {
-    color: #F4F4FD;
+    color: var(--color-white);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -238,7 +243,7 @@ button {
 .list {}
 
 .main-btn {
-    color: #FFFFFF;
+    color: var(--bg-white);
     background: #404BBF;
     font-weight: 500;
     font-size: 16px;
