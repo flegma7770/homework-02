@@ -251,6 +251,12 @@ button {
     letter-spacing: 0.04em;
 }
 
+.main-btn:hover,
+.main-btn:focus {
+    background-color: #404BBF;
+    color: var(--bg-white);
+}
+
 button {
     cursor: pointer;
 }
