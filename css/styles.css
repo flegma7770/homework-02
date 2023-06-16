@@ -45,11 +45,9 @@ button {
     text-decoration: none;
 
 }
-
 .link {
     text-decoration: none;
 }
-
 .nav-logo-studio {
     color: var(--color-blue);
     font-family: 'Raleway', sans-serif;
@@ -57,16 +55,13 @@ button {
     font-size: 18px;
     line-height: 1.17;
 }
-
 .list {
     list-style: none;
 }
-
 .nav-item:hover,
 .nav-item:focus {
     color: #404bbf;
 }
-
 .nav-item {
     color: var(--color-blue);
     font-weight: 500;
@@ -74,24 +69,23 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
 .contacts-item {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+.adress {
+    font-style: normal;
+}
 .contacts-item:hover,
 .contacts-item:focus {
     color: #404BBF;
 }
-
 /* main section Hero */
 .section-hero {
     background: #2E2F42;
 }
-
 .hero-title {
     color: #FFFFFF;
     font-weight: 700;
@@ -162,9 +156,6 @@ button {
 
 .our-team {
     color: #2E2F42;
-    font-family: "Roboto",
-        sans-serif;
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -180,9 +171,6 @@ button {
 .team-name {
     color: #2E2F42;
     background:  var(--bg-white);
-    font-family: "Roboto",
-        sans-serif;
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -192,8 +180,6 @@ button {
 .team-subtitle {
     color: #434455;
     background: var(--bg-white);
-    font-family: "Roboto",
-        sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -205,23 +191,10 @@ button {
     background: #2E2F42;
 }
 
-.nav-logo {
-    color: #4D5AE5;
-    font-family: 'Raleway', sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    text-transform: uppercase;
-    letter-spacing: 0.03em;
-    text-decoration: none;
 
-}
-
-.nav-logo-studio {
+.footer-logo-studio {
     color: #f4f4fd;
     font-family: 'Raleway', sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -229,8 +202,6 @@ button {
 
 .footer-text {
     color: #F4F4FD;
-    font-family: "Roboto",
-        sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
