@@ -243,8 +243,8 @@ button {
 .list {}
 
 .main-btn {
-    color: var(--bg-white);
-    background: #404BBF;
+    color: var(--color-logo);
+    background: var(--color-white);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
